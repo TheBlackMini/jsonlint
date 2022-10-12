@@ -1,6 +1,10 @@
 # docker-jsonlint
 
+[![License](https://img.shields.io/badge/license-MIT-%233DA639.svg)](https://opensource.org/licenses/MIT)
+
 Dockerized [jsonlint](https://github.com/prantlf/jsonlint), easy to use and easy to integrate with CI.
+
+View **[Dockerfile](https://github.com/TheBlackMini/jsonlint/blob/main/Dockerfile)** on GitHub.
 
 ## Table of Contents
 
@@ -114,3 +118,11 @@ docker build --build-arg JSONLINT_VERSION="11.7.0" -t jsonlint .
 ```
 
 You can find a valid version on [jsonlint](https://github.com/prantlf/jsonlint/releases) releases page.
+
+## License
+
+Copyright (C) 2012-2022 Zachary Carter, Ferdinand Prantl
+
+Licensed under the [MIT License].
+
+[MIT License]: http://en.wikipedia.org/wiki/MIT_License
