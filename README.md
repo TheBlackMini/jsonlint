@@ -1,6 +1,9 @@
 # docker-jsonlint
 
 [![License](https://img.shields.io/badge/license-MIT-%233DA639.svg)](https://opensource.org/licenses/MIT)
+[![Tag](https://img.shields.io/github/tag/theblackmini/jsonlint.svg)](https://github.com/theblackmini/jsonlint/releases)
+[![](https://img.shields.io/docker/pulls/theblackmini/jsonlint.svg)](https://hub.docker.com/r/theblackmini/jsonlint)
+[![](https://img.shields.io/badge/github-theblackmini%2Fjsonlint-red.svg)](https://github.com/theblackmini/jsonlint "github.com/theblackmini/jsonlint")
 
 Dockerized [jsonlint](https://github.com/prantlf/jsonlint), easy to use and easy to integrate with CI.
 
